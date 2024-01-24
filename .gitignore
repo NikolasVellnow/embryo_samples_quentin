@@ -1,0 +1,28 @@
+# ignore all .log files
+*.log
+
+# ignore slurm log files
+slurm*.out
+
+# ignore figures
+*.pdf
+*.png
+*.jpeg
+*.svg
+
+# ignore data files
+*_result.txt*
+*_result.txt.gz*
+*test*
+*results*1st*
+*.docx
+*.ods
+*.xlsx
+*.bam
+*.bai
+*.fna
+
+# ignore directories
+mapped_reads_subsets/
+presentation_group_meeting/
+

@@ -1,0 +1,3 @@
+/work/mnikvell/data/mapped_reads/s10_EKDN230004359-1A_HNHMFDSX5_L3/s10_EKDN230004359-1A_HNHMFDSX5_L3_sorted_dedup_downsampled.bam
+/work/mnikvell/data/mapped_reads/s11_EKDN230004360-1A_HNHMFDSX5_L3/s11_EKDN230004360-1A_HNHMFDSX5_L3_sorted_dedup_downsampled.bam
+/work/mnikvell/data/mapped_reads/s12_EKDN230004361-1A_HNHMFDSX5_L3/s12_EKDN230004361-1A_HNHMFDSX5_L3_sorted_dedup_downsampled.bam
